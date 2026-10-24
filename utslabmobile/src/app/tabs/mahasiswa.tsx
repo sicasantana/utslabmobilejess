@@ -60,7 +60,7 @@ export default function Mahasiswa() {
                 <Ionicons
                     name="search-outline"
                     size={22}
-                    color="#7555E8"
+                    color="#2266c5"
             />
 
             <TextInput
@@ -85,7 +85,7 @@ export default function Mahasiswa() {
                     activeOpacity={0.7}
                     onPress={() => {}}
                 >
-                    <Ionicons name="add" size={18} color="#7555E8" />
+                    <Ionicons name="add" size={18} color="#2266c5" />
                     <Text style={styles.addButtonText}>Tambah Data</Text>
                 </TouchableOpacity>
             </View>
@@ -110,7 +110,7 @@ export default function Mahasiswa() {
                 <Ionicons
                     name="search-outline"
                     size={38}
-                    color="#7555E8"
+                    color="#2266c5"
                 />
                 <Text style={styles.emptyTitle}>
                     Data tidak ditemukan!
@@ -139,7 +139,7 @@ listContent: {
 },
 
 label: {
-    color: '#7555E8',
+    color: '#2266c5',
     fontSize: 11,
     fontWeight: 'bold',
     letterSpacing: 2,
@@ -160,14 +160,14 @@ subtitle: {
 },
 
 summary: {
-    backgroundColor: '#7555E8',
+    backgroundColor: '#2266c5',
     borderRadius: 24,
     padding: 22,
     marginBottom: 22,
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
-    shadowColor: '#7555E8',
+    shadowColor: '#2266c5',
     shadowOffset: { width: 0, height: 8 },
     shadowOpacity: 0.2,
     shadowRadius: 12,
@@ -175,7 +175,7 @@ summary: {
 },
 
 summaryLabel: {
-    color: '#E4DDFF',
+    color: '#ecf8ff',
     fontSize: 14,
     fontWeight: '600',
 },
@@ -188,7 +188,7 @@ summaryNumber: {
 },
 
 summaryCaption: {
-    color: '#E4DDFF',
+    color: '#ecf8ff',
     fontSize: 12,
     marginTop: 2,
 },
@@ -244,7 +244,7 @@ addButton: {
 },
 
 addButtonText: {
-    color: '#7555E8',
+    color: '#2266c5',
     fontSize: 12,
     fontWeight: 'bold',
 },
@@ -264,14 +264,14 @@ avatar: {
     width: 48,
     height: 48,
     borderRadius: 36,
-    backgroundColor: '#E9E4FF',
+    backgroundColor: '#e2eafd',
     alignItems: 'center',
     justifyContent: 'center',
     marginRight: 13,
 },
 
 avatarText: {
-    color: '#7555E8',
+    color: '#2266c5',
     fontSize: 20,
     fontWeight: 'bold',
 },

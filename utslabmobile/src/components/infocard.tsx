@@ -95,7 +95,7 @@ badgeText: {
 },
 
 button: {
-    backgroundColor: '#7555E8',
+    backgroundColor: '#2266c5',
     padding: 12,
     borderRadius: 12,
     alignItems: 'center',

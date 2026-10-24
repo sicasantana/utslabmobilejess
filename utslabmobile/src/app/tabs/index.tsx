@@ -87,7 +87,7 @@ const styles = StyleSheet.create({
   },
 
   label: {
-    color: '#7555E8',
+    color: '#2266c5',
     fontSize: 11,
     fontWeight: 'bold',
     letterSpacing: 2,
@@ -108,11 +108,11 @@ const styles = StyleSheet.create({
   },
 
   summary: {
-    backgroundColor: '#7555E8',
+    backgroundColor: '#2266c5',
     borderRadius: 24,
     padding: 22,
     marginBottom: 30,
-    shadowColor: '#7555E8',
+    shadowColor: '#2266c5',
     shadowOffset: { width: 0, height: 10 },
     shadowOpacity: 0.3,
     shadowRadius: 16,
@@ -120,7 +120,7 @@ const styles = StyleSheet.create({
   },
 
   summaryLabel: {
-    color: '#D9D0FF',
+    color: '#d0deff',
     fontSize: 14,
     fontWeight: '600',
   },
@@ -166,7 +166,7 @@ const styles = StyleSheet.create({
   },
 
   statText: {
-    color: '#E4DDFF',
+    color: '#d0deff',
     fontSize: 12,
     marginTop: 2,
   },
